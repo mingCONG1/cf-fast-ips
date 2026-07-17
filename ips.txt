@@ -3,3 +3,10 @@ cloudflare.seeck.cn#CN·三网通用
 drmartens.co.kr:443#KR·韩国马丁靴
 cu.090227.xyz:2096#CN·联通专属
 cucc.cloudflare.seeck.cn#CN·中国联通定向
+
+
+23.133.52.10:2053#HK-63.63MB/s
+38.207.133.48:443#HK-25.24MB/s
+154.12.188.210:2096#HK-10.48MB/s
+154.12.188.210:2083#HK-9.35MB/s
+185.200.64.140:443#HK-9.32MB/s
