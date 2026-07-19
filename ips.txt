@@ -26,4 +26,3 @@ cu.090227.xyz:2096#CN·联通专属
 cf.090227.xyz:443#CN·CF优选
 cloudflare.seeck.cn#CN·三网通用
 cf.877774.xyz:443#CN·优化线路 (秋名山)
-cdn.tzpro.xyz:443#CN·TZPRO
