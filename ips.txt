@@ -1,36 +1,29 @@
-104.16.145.187:443#CF香港1 (亦心ip)
-104.17.153.242:443#CF香港2 (亦心ip)
-cf.cloudflare.182682.xyz:443#优选 (WeTest.Vip)
-cf.cloudflare.19931110.xyz:443#优选 (NB)
-saas.sin.fan:443#优选 (MIYU)
 a.lma.de5.net:443#优选 (vps789)
-store.ubi.com:443#三网 (育碧商城)
-cf.tencentapp.cn:443#三网 (ktff)
-lt.dirige.de5.net
-emos.cnmby.d.xyz
-emos.030666.xyz
-emosbest.indevs.in
-emos.200038.xyz
-emos.137127.xyz
-emos.dirige.de5.net
-emos.12321.us.ci
-emos.255432.xyz
-emos.660990.xyz
 emos.biu.gv.uy
+saas.sin.fan:443#优选 (MIYU)
+emos.660990.xyz
+emos.255432.xyz
 pro.111196123.xyz
+lt.dirige.de5.net
+emos.200038.xyz
 cf.030101.xyz#GL·全球全能优选
-cf.877774.xyz:443#CN·优化线路 (秋名山)
-cloudflare.seeck.cn#CN·三网通用
-ctcc.cloudflare.seeck.cn#CN·电信定向
+cf.tencentapp.cn:443#三网 (ktff)
+cm.090227.xyz:2087#CN·移动专属
+bestcf.030101.xyz:443#CN·最优CF
 cmcc.cloudflare.seeck.cn#CN·移动定向
 cucc.cloudflare.seeck.cn#CN·联通定向
-saas.sin.fan:443#CN·SaaS优选
-bestcf.top:443#CN·CF顶配
-cdn.tzpro.xyz:443#CN·TZPRO
-cf.090227.xyz:443#CN·CF优选
-bestcf.030101.xyz:443#CN·最优CF
-cm.090227.xyz:2087#CN·移动专属
-cu.090227.xyz:2096#CN·联通专属
+emos.12321.us.ci
+emosbest.indevs.in
+emos.030666.xyz
+emos.dirige.de5.net
+store.ubi.com:443#三网 (育碧商城)
+cf.cloudflare.182682.xyz:443#优选 (WeTest.Vip)
 ct.090227.xyz:8443#CN·电信专属
-cloudflare.host:2083#CN·大陆优化
-bestcf.one:2087#CN·备用扫描
+ctcc.cloudflare.seeck.cn#CN·电信定向
+emos.137127.xyz
+cf.cloudflare.19931110.xyz:443#优选 (NB)
+cu.090227.xyz:2096#CN·联通专属
+cf.090227.xyz:443#CN·CF优选
+cloudflare.seeck.cn#CN·三网通用
+cf.877774.xyz:443#CN·优化线路 (秋名山)
+cdn.tzpro.xyz:443#CN·TZPRO
