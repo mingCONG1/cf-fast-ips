@@ -1,9 +1,70 @@
-﻿cf.877774.xyz:443#CN·优化线路 (秋名山)
+162.159.39.173:443#CF东京 (亦心ip)
+108.162.198.132:443#CF东京 (亦心ip)
+162.159.44.123:443#CF东京 (亦心ip)
+162.159.45.49:443#CF东京 (亦心ip)
+162.159.45.75:443#CF东京 (亦心ip)
+162.159.45.31:443#CF东京 (亦心ip)
+108.162.198.230:443#CF东京 (亦心ip)
+162.159.14.76:443#CF新加坡 (亦心ip)
+172.64.152.247:443#CF新加坡 (亦心ip)
+108.162.198.231:443#CF美国 (优选ip)
+172.64.52.215:443#CF美国 (优选ip)
+162.159.45.179:443#CF美国 (优选ip)
+198.41.223.156:443#CF美国 (优选ip)
+104.16.145.187:443#CF香港 (亦心ip)
+104.17.153.242:443#CF香港 (亦心ip)
+cf.tencentapp.cn:443#三网 (ktff)
+cf.877774.xyz:443#三网 (QMS)
+ct.877774.xyz:443#电信 (QMS)
+cu.877774.xyz:443#联通 (QMS)
+cmcc.877774.xyz:443#移动 (QMS)
+cf.cloudflare.19931110.xyz:443#优选 (NB)
+cf.cloudflare.182682.xyz:443#优选 (WeTest.Vip)
+5j4l.cdn.djx-ybelove.pp.ua:443#三网 (OptiDomain)
+ct.cdn.djx-ybelove.pp.ua:443#电信 (OptiDomain)
+cu.cdn.djx-ybelove.pp.ua:443#联通 (OptiDomain)
+cm.cdn.djx-ybelove.pp.ua:443#移动 (OptiDomain)
+saas.sin.fan:443#优选 (MIYU)
+a.lma.de5.net:443#优选 (vps789)
+youxuan.cf.090227.xyz:443#优选 (CMLiu)
+store.ubi.com:443#三网 (育碧商城)
+emos.dirige.de5.net
+yd.dirige.de5.net
+lt.dirige.de5.net
+emos.wangjunqiang.indevs.in
+emos.goldenarch.qzz.io
+emosbest.indevs.in
+pro.111196123.xyz
+emos.030518.xyz
+emos.660990.xyz
+emos.030666.xyz
+emos.033388.xyz
+emos.255432.xyz
+emos.biu.gv.uy
+emos.200038.xyz
+emos.137127.xyz:443
+emos.12321.us.ci
+emos.cnmbyd.xyz
+cloudflare-ech.com:443#US（ECH支持）
+edgeone.19931110.xyz#HK（腾讯云EdgeOne）
+saas.sin.fan:443#CN·SaaS优选
+cdn.2020111.xyz:443#CN
+sub.danfeng.eu.org#EU
+vmiss.664667.xyz#CA
+Youxuan.cf.090227.xyz:443#CN·三网优化 (Cloudflare)
+cf.030101.xyz#GL·全球全能优选
+cf.877774.xyz:443#CN·优化线路 (秋名山)
 cloudflare.seeck.cn#CN·三网通用
-drmartens.co.kr:443#KR·韩国马丁靴
+ctcc.cloudflare.seeck.cn#CN·电信定向
+cmcc.cloudflare.seeck.cn#CN·移动定向
+cucc.cloudflare.seeck.cn#CN·联通定向
+bestcf.top:443#CN·CF顶配
+cdn.tzpro.xyz:443#CN·TZPRO
+cf.090227.xyz:443#CN·CF优选
+bestcf.030101.xyz:443#CN·最优CF
+cf.090227.xyz:2053#CN·三网智能
+cm.090227.xyz:2087#CN·移动专属
 cu.090227.xyz:2096#CN·联通专属
-cucc.cloudflare.seeck.cn#CN·中国联通定向
-
-
-23.133.52.10:2053#HK-63.63MB/s
-91.110.209.83:443#hk
+ct.090227.xyz:8443#CN·电信专属
+cloudflare.host:2083#CN·大陆优化
+bestcf.one:2087#CN·备用扫描
